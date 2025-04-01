@@ -35,11 +35,6 @@
 
 ---
 
-### 📫 Contact
-
-- 🐦 Twitter: [@ozven_120826](https://twitter.com/)  
-- ☕ Buy me a coffee? One day maybe 👻
-
 ---
 
 <p align="center">
